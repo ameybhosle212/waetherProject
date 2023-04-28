@@ -25,4 +25,4 @@ Step to Run code file in local environment
  
  
  Deployed on Vercel Link : https://waether-project.vercel.app/
- Only Frontend working ,backend yet not working .
+ Only Frontend working ,backend yet not working on vercel.
