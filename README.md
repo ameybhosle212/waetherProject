@@ -21,6 +21,8 @@ Step to Run code file in local environment
  4. cd frontend
  5. npm install && npm start
  
+ Working completly on Local Environment.
+ 
  
  Deployed on Vercel Link : https://waether-project.vercel.app/
  Only Frontend working ,backend yet not working .
